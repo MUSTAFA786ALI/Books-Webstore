@@ -6,7 +6,6 @@ Welcome to the Web Book Store! This project is a static website for an online bo
 
 - [Features](#features)
 - [Installation](#installation)
-- [Output Demo](#Output-Demo)
 - [Usage](#usage)
 - [Pages and Functionality](#pages-and-functionality)
   - [Home Page](#home-page)
@@ -27,9 +26,6 @@ Welcome to the Web Book Store! This project is a static website for an online bo
 - Add books to the shopping cart
 - View cart and proceed to a mock checkout
 
-## Output Demo
-
-  
 ## Installation
 
 Since this is a static website, you can set it up and run it locally with minimal effort. Follow these steps:
